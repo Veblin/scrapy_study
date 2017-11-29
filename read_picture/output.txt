@@ -1,0 +1,74 @@
+Please enter an URL 7> http: /wm.mo.com/keeprmermfomed
+Tm: |s Apachenench, Vermon 2.3 (SRewsnon: 655654 s>
+
+(opymght 1996 Adam Tmss, Zeus Technology Ltd, http://ww.2eustech.net/
+L|censed to The Apache Software Foundation, http://ww.apache.org/
+
+Eenchmarkmg W.mo.com (be pahent)
+(empleted 2000 requests
+
+ 
+
+A(
+Server Software: (dn
+
+Server Hostname: W.mo.com
+
+Server Port: 80
+
+Document Path: lkeeprmermfomed
+
+Document Length: 0 bytes
+
+(oncurrency Level: 400
+
+Tune taken For test 236.359 seconds
+
+(emplete requests: 2800
+
+Failed requests: 0
+
+Wmte errors: 0
+
+Noanxx responses: 3200
+
+Keeprlﬂwe requests: 0
+
+Total transferred: 540800 bytes
+
+HTML transferred: 0 bytes
+
+Requests per second: 11.85 [#lsec] (mean)
+
+Tune per request: 33765.631 [ms] (mean)
+
+Tune per request: 84.414 [ms] (mean, across all concurrent requests)
+Transfer rate: 2.23 [Kbytes/sec] recewed
+
+(onnechon Tunes (ms)
+mm meanD/isd] medmn max
+
+(onnect: 32 37 8.4 36 233
+Processmg: 30034 30050 21.2 30043 30281
+Waltlng: 34 49 19.3 42 138
+Total: 30067 30087 23.0 30079 30318
+
+Percentage of the requests served wnthm a certam tune (ms)
+50% 30079
+
+66% 30083
+
+75% 30086
+
+80% 30090
+
+90% 30115
+
+95% 30142
+
+98% 30159
+
+99% 30177
+
+100% 30318 (longest request)
+
