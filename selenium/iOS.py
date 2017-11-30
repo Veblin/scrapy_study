@@ -1,6 +1,11 @@
 from selenium import webdriver
-# TODO chrome 等 webdriver 使用 ： https://sites.google.com/a/chromium.org/chromedriver/getting-started
-browser = webdriver.Chrome('~/Downloads/chromedriver')
+import json
+with open('paths.json', 'r') as f:
+    path = json.load(f)
+
+driver_path  = path['chrome']
+print("driverPath:" + driver_path)
+browser = webdriver.Chrome(driver_path)
 # browser = webdriver.Firefox(executable_path="firefox")
 # browser = webdriver.Edge()
 # browser = webdriver.PhantomJS(executable_path="phantomjs")
